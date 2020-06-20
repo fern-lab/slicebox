@@ -1,0 +1,2 @@
+# slicebox
+slicebox jquery plugin
